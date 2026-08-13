@@ -1,0 +1,5 @@
+[
+  { "name": "ChatGPT Pro", "price": 280000 },
+  { "name": "Claude Max 20x", "price": 280000 },
+  { "name": "Perplexity Max", "price": 280000 }
+]

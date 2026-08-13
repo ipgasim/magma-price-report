@@ -3,8 +3,9 @@
 리포트에 들어간 가격을 어디서 가져왔는지 적어 둡니다.
 새 세그먼트를 추가하면 아래 목록에 출처를 한 줄 더합니다.
 
-> 지금까지 채운 세그먼트: 중가
+> 지금까지 채운 세그먼트: 중가, 프리미엄
 
 ## 출처 목록
 
 - 중가: 경쟁사 공식 요금 페이지
+- 프리미엄: OpenAI ChatGPT Pro 소개 페이지($200/month), Claude Max Help Center(Max 20x $200/month), Perplexity Max Help Center($200/month). 리포트 표기용 원화 환산은 1달러=1,400원 기준.
